@@ -1,0 +1,31 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.bluetooth.le.ChartActivity"
+    android:id="@+id/chart_layout">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerHorizontal="true"
+        android:keepScreenOn="true">
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:layout_gravity="center_horizontal"
+            android:id="@+id/sensor_layout">
+
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+</RelativeLayout>
+<!-- From: file:/E:/Dropbox/lab/Android/AndroidStudioProjects/Stance%20Recognition%20socket/Application/src/main/res/layout/activity_insole_chart.xml -->

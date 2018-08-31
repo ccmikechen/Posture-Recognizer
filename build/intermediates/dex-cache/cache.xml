@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\銘嘉\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="E:\Dropbox\lab\Android\AndroidStudioProjects\Stance Recognition 2.2.0\Application\build\intermediates\pre-dexed\debug\okhttp-3.2.0-0bc10f042977b438974e839366c8cfb895df8e90.jar" />
+    </item>
+    <item
+        jar="E:\Dropbox\lab\Android\AndroidStudioProjects\Stance Recognition 2.2.0\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="E:\Dropbox\lab\Android\AndroidStudioProjects\Stance Recognition 2.2.0\Application\build\intermediates\pre-dexed\debug\classes-7ccc22416b8d8eca62098a8eb2b375d78e06744c.jar" />
+    </item>
+    <item
+        jar="E:\Dropbox\lab\Android\AndroidStudioProjects\Stance Recognition 2.2.0\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="E:\Dropbox\lab\Android\AndroidStudioProjects\Stance Recognition 2.2.0\Application\build\intermediates\pre-dexed\debug\internal_impl-23.1.1-fb0d613234c5bed2a6e02b59f7e59050ac8ba1a2.jar" />
+    </item>
+    <item
+        jar="E:\Dropbox\lab\Android\AndroidStudioProjects\Stance Recognition 2.2.0\Application\build\intermediates\exploded-aar\com.android.support\support-v13\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="5ddf5f4817565c9db82613c16093f76640a54e15">
+        <dex dex="E:\Dropbox\lab\Android\AndroidStudioProjects\Stance Recognition 2.2.0\Application\build\intermediates\pre-dexed\debug\classes-04810a4aa46bbb3a59c952d2d7fac461eb28b97d.jar" />
+    </item>
+    <item
+        jar="C:\Users\銘嘉\.gradle\caches\modules-2\files-2.1\io.socket\engine.io-client\0.7.0\c1b1d30e2d2231b2eae1438a44943a409b976dac\engine.io-client-0.7.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c1b1d30e2d2231b2eae1438a44943a409b976dac">
+        <dex dex="E:\Dropbox\lab\Android\AndroidStudioProjects\Stance Recognition 2.2.0\Application\build\intermediates\pre-dexed\debug\engine.io-client-0.7.0-43eed7461e4ca5e5f521c4496dc5a6fb9af7d1e3.jar" />
+    </item>
+    <item
+        jar="C:\Users\銘嘉\.gradle\caches\modules-2\files-2.1\io.socket\socket.io-client\0.7.0\ce278c97bc9f74c7945d647f6d441d6013163362\socket.io-client-0.7.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="ce278c97bc9f74c7945d647f6d441d6013163362">
+        <dex dex="E:\Dropbox\lab\Android\AndroidStudioProjects\Stance Recognition 2.2.0\Application\build\intermediates\pre-dexed\debug\socket.io-client-0.7.0-dce4ba43ae980dcf3c7a9249ac6afee0081a52bd.jar" />
+    </item>
+    <item
+        jar="E:\Dropbox\lab\Android\AndroidStudioProjects\Stance Recognition 2.2.0\Application\lib\achartengine-1.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="7688905f94002014cf6b46cac1664f831d51cab0">
+        <dex dex="E:\Dropbox\lab\Android\AndroidStudioProjects\Stance Recognition 2.2.0\Application\build\intermediates\pre-dexed\debug\achartengine-1.2.0-551496cd627d64fbf997564bdc4a5202bf022ea8.jar" />
+    </item>
+    <item
+        jar="C:\Users\銘嘉\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-ws\3.0.1\bd9b51a0188fc8f14bf840a0d326755545206116\okhttp-ws-3.0.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="bd9b51a0188fc8f14bf840a0d326755545206116">
+        <dex dex="E:\Dropbox\lab\Android\AndroidStudioProjects\Stance Recognition 2.2.0\Application\build\intermediates\pre-dexed\debug\okhttp-ws-3.0.1-8265708f5261d8646d92105111c17a194b45fdab.jar" />
+    </item>
+    <item
+        jar="E:\Dropbox\lab\Android\AndroidStudioProjects\Stance Recognition 2.2.0\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="E:\Dropbox\lab\Android\AndroidStudioProjects\Stance Recognition 2.2.0\Application\build\intermediates\pre-dexed\debug\classes-811bb8043ee21cfedfe4e88ab43882c379f15b04.jar" />
+    </item>
+    <item
+        jar="C:\Users\銘嘉\.gradle\caches\modules-2\files-2.1\org.eclipse.paho\org.eclipse.paho.client.mqttv3\1.0.2\11752d3f24d1a9deda4533a7ca18d8496417ceeb\org.eclipse.paho.client.mqttv3-1.0.2.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="11752d3f24d1a9deda4533a7ca18d8496417ceeb">
+        <dex dex="E:\Dropbox\lab\Android\AndroidStudioProjects\Stance Recognition 2.2.0\Application\build\intermediates\pre-dexed\debug\org.eclipse.paho.client.mqttv3-1.0.2-63f248f2a08ab3c148085650f37efdd76cf24d65.jar" />
+    </item>
+    <item
+        jar="E:\Dropbox\lab\Android\AndroidStudioProjects\Stance Recognition 2.2.0\Application\lib\jmatio.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="f63982e4ec4e051f49a55cbfc3df2185093fe364">
+        <dex dex="E:\Dropbox\lab\Android\AndroidStudioProjects\Stance Recognition 2.2.0\Application\build\intermediates\pre-dexed\debug\jmatio-8e9d57466ec3fbbe3f97f609810b9468ba8f0d10.jar" />
+    </item>
+    <item
+        jar="C:\Users\銘嘉\.gradle\caches\modules-2\files-2.1\org.eclipse.paho\org.eclipse.paho.android.service\1.0.2\2d956522c556caeb35148445ecd059ebe67331f6\org.eclipse.paho.android.service-1.0.2.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="2d956522c556caeb35148445ecd059ebe67331f6">
+        <dex dex="E:\Dropbox\lab\Android\AndroidStudioProjects\Stance Recognition 2.2.0\Application\build\intermediates\pre-dexed\debug\org.eclipse.paho.android.service-1.0.2-cd4a20e372dbfd9492018e4315576ffcdfe0d2b8.jar" />
+    </item>
+    <item
+        jar="G:\銘嘉\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="E:\Dropbox\lab\Android\AndroidStudioProjects\Stance Recognition 2.2.0\Application\build\intermediates\pre-dexed\debug\support-annotations-23.1.1-0bd1c1ba3f1222ffe5cd798d44accde39f87857c.jar" />
+    </item>
+    <item
+        jar="E:\Dropbox\lab\Android\AndroidStudioProjects\Stance Recognition 2.2.0\Application\build\intermediates\exploded-aar\com.android.support\support-v13\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="f4d7a07120e76988f3a15403838d323c2400db83">
+        <dex dex="E:\Dropbox\lab\Android\AndroidStudioProjects\Stance Recognition 2.2.0\Application\build\intermediates\pre-dexed\debug\internal_impl-23.1.1-137b8e8b9b8a520064845616244876a842127958.jar" />
+    </item>
+    <item
+        jar="C:\Users\銘嘉\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="E:\Dropbox\lab\Android\AndroidStudioProjects\Stance Recognition 2.2.0\Application\build\intermediates\pre-dexed\debug\okio-1.6.0-f31d744b35049af1c9e4c548c7182c9906691e55.jar" />
+    </item>
+
+</items>
